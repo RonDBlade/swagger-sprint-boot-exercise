@@ -1,0 +1,13 @@
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/model/Person.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/api/PersonApi.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/configuration/HomeController.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/configuration/SwaggerDocumentationConfig.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/configuration/JacksonConfiguration.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/api/ApiResponseMessage.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/configuration/CustomInstantDeserializer.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/api/ApiException.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/RFC3339DateFormat.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/api/PersonApiController.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/api/NotFoundException.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/Swagger2SpringBoot.java
+/home/ron/Downloads/spring-server-generated/spring-server/src/main/java/io/swagger/api/ApiOriginFilter.java
